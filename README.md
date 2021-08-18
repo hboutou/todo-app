@@ -1,3 +1,7 @@
+This project is hosted here: https://todo-app-eqx.pages.dev/
+---
+
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
